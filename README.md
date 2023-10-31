@@ -225,3 +225,13 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
                   builder.show();
               }
           }
+
+# Hasil Run
+
+Untuk run app ini saya menggunakan software emulator yaitu Genymotion. Berikut ini adalah tampilan dari aplikasi yang telah saya buat :
+
+* Tombol Toast ditekan, maka akan muncul message "Bilangan Fibonacci" seperti berikut
+
+![Hasil 1 fibonacci](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/c8a1b671-2f78-4911-98da-691cb3efaace)
+
+* Tombol Count ditekan, maka angka "1" akan berubah menjadi
