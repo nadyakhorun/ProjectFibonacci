@@ -120,14 +120,6 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
           
           </androidx.constraintlayout.widget.ConstraintLayout>
 
-   ![activity_fibonacci](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/3d6de6b2-8ab9-413e-937f-97e2bf253e3c)
-
-![activity fibonacci 1](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/39589147-ab9b-4be1-8ade-a389ed57ed43)
-
-![activity fibonacci 2](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/36a466e7-743c-4253-8ade-d4349d4ec356)
-
-![activity fibonacci 3](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/a2629bea-1f78-487a-970c-fd0c4f559a03)
-
   * strings.xml
  
         <resources>
@@ -139,8 +131,6 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
             <string name="button_label_finish">Reset</string>
             <string name="enter_fibonacci_limit">Masukan Limit Angka</string>
         </resources>
-
-![strings xml](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/99c5cbf2-589a-46ae-be2a-71115396efde)
 
 * colors.xml
    
@@ -154,11 +144,9 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
             
             </resources>
 
-![colors xml](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/de37bafb-2c7d-4f2f-b7b0-464c255b4206)
-
   # Tampilan Design
 
- ![tampilan design baru](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/01b1df84-7b1f-4c8a-95f4-baf64ea60b3e)
+ ![tampilan design baru 1](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/a9a0504b-279d-4bbf-9aa8-1b49e1a3b66e)
 
   # MainActivity.java
 
@@ -245,19 +233,13 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
                 }
             }
 
-![mainactivity1](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/20cef6a1-a9aa-4820-8830-85c804580dda)
-
-![mainactivity2](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/12e6e763-2f50-4f22-bffe-7c3cc2ecad08)
-
-![mainactivity3](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/b1c260dc-de07-4dba-92b0-c49b6a7aa859)
-
 # Hasil Run
 
 Untuk run app ini saya menggunakan software emulator yaitu Genymotion. Berikut ini adalah tampilan dari aplikasi yang telah saya buat :
 
 * Tombol Toast ditekan, maka akan muncul message "Bilangan Fibonacci" seperti gambar dibawah
 
-![hasil fibonacci 1](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/b0b2797e-6737-4045-88cc-8dcf41ccc7cf)
+![hasil hasil](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/d4cb34af-9c7a-4c26-a0f1-46eec1e23ba0)
 
 * Tombol Count ditekan, maka angka "1" akan berubah menjadi Bilangan Fibonacci seperti berikut.
   
