@@ -18,7 +18,7 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
 
 1. Membuat project baru terlebih dahulu dengan nama project "tugasenam"
 
-2. Kemudian pada layout activity_main ditambahkan 2 "button" dan 1 "textview" seperti berikut
+2. Kemudian pada layout activity_main ditambahkan 3 "button" dan 1 "textview" seperti berikut
 
 ![awal fibonacci](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/159804a4-cbca-4171-9aac-3be0e13b95bb)
 
