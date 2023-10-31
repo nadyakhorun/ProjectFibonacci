@@ -20,7 +20,7 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
 
 2. Kemudian pada layout activity_main ditambahkan 3 "button" dan 1 "textview" seperti berikut
 
-
+![layout fibonacci](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/2277686e-cf2b-4350-8e7d-add0b550b19b)
 
 3. Untuk button yang pertama berfungsi sebagai tombol "Toast" yang nantinya ketika ditekan akan muncul sebuah toast message yaitu "Bilangan Fibonacci". Button yang kedua, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya. Dan yang terakhir Textview, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
 
