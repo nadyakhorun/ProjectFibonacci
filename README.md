@@ -230,35 +230,5 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.Kom
 
 Untuk run app ini saya menggunakan software emulator yaitu Genymotion. Berikut ini adalah tampilan dari aplikasi yang telah saya buat :
 
-* Tombol Toast ditekan, maka akan muncul message "Bilangan Fibonacci" seperti berikut
-
-![Hasil 1 fibonacci](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/c8a1b671-2f78-4911-98da-691cb3efaace)
-
-* Tombol Count ditekan, maka angka "1" akan berubah menjadi Bilangan Fibonacci seperti berikut
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/780a973d-d5d0-4f11-9d00-7f061a0e3c67)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/30c62bce-86a2-41ee-9f59-7eaa03d66602)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/9b81ceca-e35c-497f-934b-8dadef86086e)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/2f2bc529-17cb-453d-a21f-7b66862a2514)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/27506b03-bc0f-415f-a848-54a8d34899d1)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/7377755e-754e-4d1a-b0ed-b2e48bc40bec)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/42b0b13c-0f56-49fb-866f-945fb8e5538e)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/e585b9ea-4f12-4f84-bcf1-71212e7885da)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/856a6524-70d9-444f-bed8-f04742f62258)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/a0f5f843-a958-4078-8334-1cfa0381e11a)
-
-![image](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/03a38517-ff0b-4c65-94b3-54773ee118cb)
-
-* Kemudian kita juga dapat menambahkan elemen menentukan limitnya seperti berikut
-
 https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/f1afd6f9-72c1-4898-a440-97996f50deb6
 
