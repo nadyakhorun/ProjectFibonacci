@@ -261,3 +261,34 @@ Untuk run app ini saya menggunakan software emulator yaitu Genymotion. Berikut i
 
 * Tombol Count ditekan, maka angka "1" akan berubah menjadi Bilangan Fibonacci seperti berikut.
   
+![hasil fibonacci 2](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/ce14f1b9-c3a4-4064-849f-2d6047388232)
+
+![hasil fibonacci 3](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/16f18faf-098b-46ee-8afd-d36410a7ba65)
+
+![hasil fibonacci 4](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/3bdd5057-6e45-4917-9266-4086b06debc5)
+
+![hasil fibonacci 5](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/fa68b81b-dc91-421c-910c-2580f6eb4db8)
+
+![hasil fibonacci 6](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/12e70108-a47c-481d-885d-5220ebcaf5af)
+
+![hasil fibonacci 7](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/0c0e6a65-2828-409b-a351-f469163fed87)
+
+![hasil fibonacci 8](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/c29e5a41-fbdd-46b6-bad7-0ee8e9e6f022)
+
+![hasil fibonacci 9](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/2cff74b7-7d0d-4be7-8291-62f18b316112)
+
+![hasil fibonacci 10](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/95e4490d-d91c-4b94-9f6c-b33f2ddd6e0b)
+
+![hasil fibonacci 11](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/39f1629b-80ec-4472-a6bf-deee50361805)
+
+![hasil fibonacci 12](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/ab867ad3-eb56-4404-8c4a-26540ececf1c)
+
+![hasil fibonacci 13](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/f3cd3674-870a-4141-96a5-6cb607d45ce2)
+
+* Jika limit angka bilangan fibonacci sudah tercapai maka akan muncul message "Maksimum Fibonacci Tercapai"
+
+![terakhir](https://github.com/nadyakhorun/ProjectFibonacci/assets/115801823/229fbede-d6dc-44ca-ad64-323cd2a28cca)
+
+* Setelah itu lakukan reset ulang untuk kembali ke awal
+
+# Sekian, Terima Kasih
